@@ -2,6 +2,8 @@
 
 Clone the project
 
+run cp .env.example .env
+
 run composer install
 
 run php artisan migrate
